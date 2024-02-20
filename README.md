@@ -9,11 +9,11 @@ Cloning** bobbibrowncosmetics.com** was our project for Unit-2 Construct week at
 ![35](https://github.com/mayurMCA/project/assets/124878085/b5d47764-f8c5-4650-85f3-c6c48b6803e9)
 
 ##Tech Stack
-*HTML 5
-*CSS 3
-*JavaScript
-*CSS Library — Bootstrap,css
-*Github
++HTML 5
++CSS 3
++JavaScript
++CSS Library — Bootstrap,css
++Github
 ##Features
 *Login | Sign Up | Profile | Offers and Toggled Navbars with their Pop-Ups.
 *Location Fetching using Geographical Location, lat and lng | custom Location Search.
